@@ -1,4 +1,7 @@
-# whopokemon
+# pokemon
+Simple vue 3 composition api studying project
+
+![Gif](./gifs/pokemon-app-vue3.gif)
 
 ## Project setup
 ```

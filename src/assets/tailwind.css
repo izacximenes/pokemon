@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.stroke-text{
+    -webkit-text-stroke:3px theme('colors.blue-pokemon');
+  }
+  
